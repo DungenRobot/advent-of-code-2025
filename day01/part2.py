@@ -7,7 +7,7 @@ def main():
     total = 0
     dial= 50
 
-    with open("day1/input.txt") as f:
+    with open("day01/input.txt") as f:
         for line in f:
 
             dir = line[0]
